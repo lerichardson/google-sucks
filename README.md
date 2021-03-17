@@ -4,7 +4,8 @@
 * [Account Removal](#Random-Account-Removal)
 * [Contributing](#Contribute)
 # Privacy
-[articles here]
+* [Privacy concerns regarding Google](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google) on Wikipedia
+* [DeGoogle](https://en.wikipedia.org/wiki/DeGoogle) on Wikipedia
 # Random Account Removal
 [articles here]
 # Contribute
