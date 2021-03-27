@@ -6,6 +6,7 @@
 # Privacy
 * [Privacy concerns regarding Google](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google) on Wikipedia
 * [DeGoogle](https://en.wikipedia.org/wiki/DeGoogle) on Wikipedia
+* [Stop it, Google](https://litbelb.medium.com/stop-it-google-4de8dfacfd28) by Me on Medium
 # Random Account Removal
 [articles here]
 # Contribute
